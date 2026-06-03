@@ -1,6 +1,12 @@
-# Next.js Authentication Flow (Claude-style)
+# Next.js Authentication Flow
 
 A professional, minimalist authentication flow built with Next.js 15, TypeScript, and Tailwind CSS 4, following the sophisticated aesthetic of Claude.ai.
+
+> [!IMPORTANT]
+> ### 🚀 Ready to master TypeScript?
+> Join **[TypeScript ZERO to Hero](https://lynk.id/kodingberuang/g7nkng3xy42w)** and start your journey from beginner to pro today!
+> 
+> [**Enroll Now →**](https://lynk.id/kodingberuang/g7nkng3xy42w)
 
 ## ✨ Features
 
@@ -37,3 +43,4 @@ A professional, minimalist authentication flow built with Next.js 15, TypeScript
 To learn more about TypeScript and modern React patterns:
 - [TypeScript Official Documentation](https://www.typescriptlang.org/docs/)
 - [Next.js App Router Documentation](https://nextjs.org/docs/app)
+- [TypeScript ZERO to Hero](https://lynk.id/kodingberuang/g7nkng3xy42w)
